@@ -11,7 +11,7 @@ def insertionSort(arr):
 
 
 
-arr = [8,6,4,20,24,2,10,12]
+arr = [8,6,4,20,24,2,10,12,75]
 
 insertionSort(arr)
 

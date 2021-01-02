@@ -7,7 +7,7 @@ def bubblesort(arr):
     return arr
 
 
-arr = [2,15,1,11,7,-2,15,12,0]
+arr = [2,15,1,11,7,-2,15,12,-8,0]
 
 
 
